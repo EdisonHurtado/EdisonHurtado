@@ -2,8 +2,6 @@
 
 Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
 
-[![Visitors](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/EdisonHurtado\&title=Profile%20Views)](https://github.com/EdisonHurtado)
-
 ---
 
 ## 🙋‍♂️ Sobre mí
