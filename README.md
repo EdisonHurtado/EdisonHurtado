@@ -66,6 +66,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ## 🎯 Habilidades técnicas (auto‑evaluación)
 
 * Java (**80%**)
+* JavaScript(**50%**)
 * Spring Boot (**85%**)
 * Arquitectura Hexagonal & SOLID (**75%**)
 * Git & GitHub (**80%**)
