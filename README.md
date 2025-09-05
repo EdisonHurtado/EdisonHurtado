@@ -6,11 +6,11 @@ Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura
 
 ## 🙋‍♂️ Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backend** y el **despliegue**. Me gusta diseñar soluciones limpias aplicando **SOLID**, **Clean Architecture** y buenas prácticas de testing y CI/CD.
+Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backend** y **Automatización**. Me gusta diseñar soluciones limpias aplicando **SOLID**, **Clean Architecture** y buenas prácticas de testing y CI/CD.
 
 * ⚙️ Stack principal: **Java, Spring Boot, Node.js, PostgreSQL**
 * 📦 Experiencia con: **Docker**, **GitHub Actions**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**
-* 🧪 Me interesa la automatización de flujos, Arquitectura Hexagonas o capas y microservicios en **Spring Boot**.
+* 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Spring Boot**.
 
 > *Tecnología con propósito: construir desde lo local para impacto global.*
 
