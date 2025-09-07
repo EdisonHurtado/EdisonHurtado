@@ -68,7 +68,7 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 
 ---
 
-<h2 style="color:#FF00FF"> 🎯 Habilidades técnicas (auto-evaluación) </h2>
+<h2 style="color:#FF00FF"> 🎯 Habilidades técnicas</h2>
 
 <div align="center">
 
