@@ -1,34 +1,33 @@
-<h1 align="center" style="color:#FF00FF"> Hola, soy <b>Edison Santiago Hurtado Campos</b> </h1>
+# Hola, soy **Edison Santiago Hurtado Campos**
 
-<p align="center" style="color:#FFD700">
-Backend Developer en formación | ☕ Java & Spring Boot | 🧱 Arquitectura Hexagonal | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
-</p>
+Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
 
 ---
 
-<h2 style="color:#FF00FF"> 🙋‍♂️ Sobre mí </h2>
+## 🙋‍♂️ Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo <b>backend</b> y <b>Automatización</b>.  
-Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architecture</b> y buenas prácticas de testing y CI/CD.
+Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backend** y **Automatización**. Me gusta diseñar soluciones limpias aplicando **SOLID**, **Clean Architecture** y buenas prácticas de testing y CI/CD.
 
-* ⚙️ Stack principal: <b>Java, Spring Boot, Node.js, PostgreSQL</b>  
-* 📦 Experiencia con: <b>Docker, GitHub Actions, Netlify, Vercel, Supabase, AWS (básico)</b>  
-* 🧪 Me interesa la <b>automatización</b> de flujos, <b>Arquitectura Hexagonal</b> o capas y microservicios en <b>Spring Boot</b>.  
+* ⚙️ Stack principal: **Java, Spring Boot, Node.js, PostgreSQL**  
+* 📦 Experiencia con: **Docker**, **GitHub Actions**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**  
+* 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Spring Boot**.
 
----
-
-<h2 style="color:#FF00FF"> 🔭 En qué estoy ahora </h2>
-
-* Realizando prácticas para una empresa que da solución a problemas de inventarios  
-* Construyendo un <b>módulo de autenticación</b> con roles/permissions y 2FA en Spring Boot.  
-* Integrando un <b>chatbot</b> con API de ChatGPT desde <b>Spring Boot</b>.  
-* Desplegando un aplicativo de agendamiento de citas con <b>Microservicios</b> y arquitectura hexagonal  
+> *🌌 Tecnología con propósito: construir desde lo local para impacto global.*
 
 ---
 
-<h2 style="color:#FF00FF"> 📊 Mis estadísticas en GitHub </h2>
+## 🔭 En qué estoy ahora
 
-<div align="center"> 
+* Realizando prácticas para una empresa que da solución a problemas de **inventarios**.  
+* Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
+* Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
+* Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.
+
+---
+
+## 📊 Mis estadísticas en GitHub
+
+<div align="center">
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFFFFF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
@@ -38,24 +37,23 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 
 </div>
 
-
 ---
 
-<h2 style="color:#FF00FF"> 🧰 Tecnologías y herramientas </h2>
+## 🧰 Tecnologías y herramientas
 
 <div align="center">
 
-### ⚙️ <span style="color:#FFD700">Backend</span>  
-<img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,postgres,mysql&theme=dark" />
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql&theme=dark" />
 
-### 🛠️ <span style="color:#FFD700">DevOps & Tools</span>  
+### 🛠️ DevOps & Tools
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,supabase,vercel&theme=dark" />
 
 </div>
 
 ---
 
-<h2 style="color:#FF00FF"> 🧪 Proyectos destacados </h2>
+## 🧪 Proyectos destacados
 
 * **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
   `#java` `#spring-boot` `#hexagonal` `#docker`  
@@ -64,41 +62,40 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 * **MS-User** — CRUD de usuarios con PostgreSQL y pruebas.  
   `#postgresql` `#jpa` `#testing`  
 * **ChatController + microservicio Ollama** — POC de chatbot integrado desde Spring Boot.  
-  `#python` `#rest` `#ollama`  
+  `#python` `#rest` `#ollama`
 
 ---
 
-<h2 style="color:#FF00FF"> 🎯 Habilidades técnicas</h2>
+## 🎯 Habilidades técnicas
 
 <div align="center">
 
 | Habilidad | Nivel |
 |-----------|-------|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | ![](https://progress-bar.dev/80/?width=200&color=FF00FF) **80%** |
-| <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | ![](https://progress-bar.dev/50/?width=200&color=FFD700) **50%** |
-| <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** | ![](https://progress-bar.dev/85/?width=200&color=00C853) **85%** |
-| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/> **Arquitectura Hexagonal & SOLID** | ![](https://progress-bar.dev/75/?width=200&color=4ECDC4) **75%** |
-| <img src="https://skillicons.dev/icons?i=git,github" width="80"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?width=200&color=FF6B6B) **80%** |
-| <img src="https://skillicons.dev/icons?i=docker" width="50"/> **Docker / CI-CD** | ![](https://progress-bar.dev/65/?width=200&color=2196F3) **65%** |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | ![](https://progress-bar.dev/80/?width=220&color=FF00FF) **80%** |
+| <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | ![](https://progress-bar.dev/50/?width=220&color=FFD700) **50%** |
+| <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** | ![](https://progress-bar.dev/85/?width=220&color=00C853) **85%** |
+| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/> **Arquitectura Hexagonal & SOLID** | ![](https://progress-bar.dev/75/?width=220&color=4ECDC4) **75%** |
+| <img src="https://skillicons.dev/icons?i=git,github" width="80"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?width=220&color=FF6B6B) **80%** |
+| <img src="https://skillicons.dev/icons?i=docker" width="50"/> **Docker / CI-CD** | ![](https://progress-bar.dev/65/?width=220&color=2196F3) **65%** |
 
 </div>
 
-
-
 ---
 
-<h2 style="color:#FF00FF"> 🎓 Educación </h2>
+## 🎓 Educación
 
 **Ingeniería de Sistemas**  
-*(Universidad Santo Tomás Seccional - Tunja)*  
+*(Universidad Santo Tomás - Seccional Tunja)*
 
 ---
 
-<h2 style="color:#FF00FF"> 📫 Contacto </h2>
+## 📫 Contacto
 
-* **LinkedIn**: *www.linkedin.com/in/eshc8829*  
-* **Email**: *maestrosantiago14@gmail.com*  
+* **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)  
+* **LinkedIn**: [eshc8829](https://www.linkedin.com/in/eshc8829)  
+* **Email**: maestrosantiago14@gmail.com
 
 ---
 
-<p align="center" style="color:#FFD700">© 2025 Edison Santiago Hurtado Campos</p>
+© 2025 Edison Santiago Hurtado Campos
