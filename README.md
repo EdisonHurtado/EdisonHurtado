@@ -74,14 +74,15 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 
 | Habilidad | Nivel |
 |-----------|-------|
-| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | ![](https://progress-bar.dev/80/?width=200&color=FF00FF&title=80%) |
-| <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | ![](https://progress-bar.dev/50/?width=200&color=FFD700&title=50%) |
-| <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** | ![](https://progress-bar.dev/85/?width=200&color=00C853&title=85%) |
-| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/> **Arquitectura Hexagonal & SOLID** | ![](https://progress-bar.dev/75/?width=200&color=4ECDC4&title=75%) |
-| <img src="https://skillicons.dev/icons?i=git,github" width="80"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?width=200&color=FF6B6B&title=80%) |
-| <img src="https://skillicons.dev/icons?i=docker" width="50"/> **Docker / CI-CD** | ![](https://progress-bar.dev/65/?width=200&color=2196F3&title=65%) |
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | ![](https://progress-bar.dev/80/?width=200&color=FF00FF) **80%** |
+| <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | ![](https://progress-bar.dev/50/?width=200&color=FFD700) **50%** |
+| <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** | ![](https://progress-bar.dev/85/?width=200&color=00C853) **85%** |
+| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/> **Arquitectura Hexagonal & SOLID** | ![](https://progress-bar.dev/75/?width=200&color=4ECDC4) **75%** |
+| <img src="https://skillicons.dev/icons?i=git,github" width="80"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?width=200&color=FF6B6B) **80%** |
+| <img src="https://skillicons.dev/icons?i=docker" width="50"/> **Docker / CI-CD** | ![](https://progress-bar.dev/65/?width=200&color=2196F3) **65%** |
 
 </div>
+
 
 
 ---
