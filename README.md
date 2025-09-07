@@ -1,6 +1,6 @@
 # Hola, soy **Edison Santiago Hurtado Campos**
 
-Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
+Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 DevOps | 🇨🇴 Colombia
 
 ---
 
