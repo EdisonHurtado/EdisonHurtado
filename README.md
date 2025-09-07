@@ -72,45 +72,14 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 
 <div align="center">
 
-<!-- Java -->
-<img src="https://skillicons.dev/icons?i=java" width="40"/>  
-<b>Java</b>  
-<img src="https://progress-bar.dev/80/?width=300&color=FF00FF&title=80%25" />
-
----
-
-<!-- JavaScript -->
-<img src="https://skillicons.dev/icons?i=javascript" width="40"/>  
-<b>JavaScript</b>  
-<img src="https://progress-bar.dev/50/?width=300&color=FFD700&title=50%25" />
-
----
-
-<!-- Spring Boot -->
-<img src="https://skillicons.dev/icons?i=spring" width="40"/>  
-<b>Spring Boot</b>  
-<img src="https://progress-bar.dev/85/?width=300&color=00C853&title=85%25" />
-
----
-
-<!-- Arquitectura Hexagonal -->
-<img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/>  
-<b>Arquitectura Hexagonal & SOLID</b>  
-<img src="https://progress-bar.dev/75/?width=300&color=4ECDC4&title=75%25" />
-
----
-
-<!-- Git & GitHub -->
-<img src="https://skillicons.dev/icons?i=git,github" width="80"/>  
-<b>Git & GitHub</b>  
-<img src="https://progress-bar.dev/80/?width=300&color=FF6B6B&title=80%25" />
-
----
-
-<!-- Docker / CI-CD -->
-<img src="https://skillicons.dev/icons?i=docker" width="50"/>  
-<b>Docker / CI-CD</b>  
-<img src="https://progress-bar.dev/65/?width=300&color=2196F3&title=65%25" />
+| Habilidad | Nivel |
+|-----------|-------|
+| <img src="https://skillicons.dev/icons?i=java" width="40"/> **Java** | ![](https://progress-bar.dev/80/?width=200&color=FF00FF&title=80%) |
+| <img src="https://skillicons.dev/icons?i=javascript" width="40"/> **JavaScript** | ![](https://progress-bar.dev/50/?width=200&color=FFD700&title=50%) |
+| <img src="https://skillicons.dev/icons?i=spring" width="40"/> **Spring Boot** | ![](https://progress-bar.dev/85/?width=200&color=00C853&title=85%) |
+| <img src="https://cdn-icons-png.flaticon.com/512/1048/1048949.png" width="40"/> **Arquitectura Hexagonal & SOLID** | ![](https://progress-bar.dev/75/?width=200&color=4ECDC4&title=75%) |
+| <img src="https://skillicons.dev/icons?i=git,github" width="80"/> **Git & GitHub** | ![](https://progress-bar.dev/80/?width=200&color=FF6B6B&title=80%) |
+| <img src="https://skillicons.dev/icons?i=docker" width="50"/> **Docker / CI-CD** | ![](https://progress-bar.dev/65/?width=200&color=2196F3&title=65%) |
 
 </div>
 
