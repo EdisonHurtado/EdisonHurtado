@@ -29,11 +29,11 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=radical&hide_border=true&title_color=FF00FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=radical&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FFD700&fire=FF4500&currStreakLabel=FF00FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
@@ -43,8 +43,6 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ## 🧰 Tecnologías y herramientas
 <div align="center">
 
-### 🚀 **Frontend**
-<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind&theme=dark" />
 
 ### ⚙️ **Backend**
 <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,postgres,mysql&theme=dark" />
