@@ -50,6 +50,30 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ---
 
+
+⚔️ Arsenal Tecnológico
+🔹 Backend & Microservicios
+
+
+
+
+
+
+
+🔹 DevOps & CI/CD
+
+
+
+
+
+🔹 Frontend & Otros
+
+
+
+
+
+
+
 ## 🧪 Proyectos destacados
 
 * **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).
