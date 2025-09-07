@@ -1,4 +1,4 @@
-# Hola, soy **Edison Santiago Hurtado Campos**
+# 🚀 Hola, soy **Edison Santiago Hurtado Campos**
 
 Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
 
@@ -12,16 +12,16 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 * 📦 Experiencia con: **Docker**, **GitHub Actions**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**
 * 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Spring Boot**.
 
-> *Tecnología con propósito: construir desde lo local para impacto global.*
+> *🌌 Tecnología con propósito: construir desde lo local para impacto global.*
 
 ---
 
 ## 🔭 En qué estoy ahora
 
-* Realizando practicas para un empresa que de solucion a los problemas de inventarios 
-* Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.
-* Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.
-* Desplegando un aplicativo de agendamiento de citas realizado con **Microservicios** y patron de arquitecutra hexagonal
+* Realizando prácticas para una empresa que da solución a problemas de **inventarios**.  
+* Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
+* Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
+* Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.  
 
 ---
 
@@ -37,12 +37,10 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 </div>
 
-
 ---
 
 ## 🧰 Tecnologías y herramientas
 <div align="center">
-
 
 ### ⚙️ **Backend**
 <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,postgres,mysql&theme=dark" />
@@ -54,47 +52,51 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ---
 
-
 ## 🧪 Proyectos destacados
 
-* **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).
-  `#java` `#spring-boot` `#hexagonal` `#docker`
-* **MS-Auth** — Módulo de autenticación con roles/permissions, 2FA y auditoría.
-  `#security` `#spring-security` `#jwt`
-* **MS-User** — CRUD de usuarios con PostgreSQL y pruebas.
-  `#postgresql` `#jpa` `#testing`
-* **ChatController + microservicio Ollama** — POC de chatbot integrado desde Spring Boot.
-  `#python` `#rest` `#ollama`
+* **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
+  `#java` `#spring-boot` `#hexagonal` `#docker`  
+
+* **MS-Auth** — Módulo de autenticación con roles/permissions, 2FA y auditoría.  
+  `#security` `#spring-security` `#jwt`  
+
+* **MS-User** — CRUD de usuarios con PostgreSQL y pruebas.  
+  `#postgresql` `#jpa` `#testing`  
+
+* **ChatController + microservicio Ollama** — POC de chatbot integrado desde Spring Boot.  
+  `#python` `#rest` `#ollama`  
 
 ---
 
-## 🎯 Habilidades técnicas (auto‑evaluación)
+## 🎯 Habilidades técnicas (auto-evaluación)
 
-* Java (**80%**)
-* JavaScript(**50%**)
-* Spring Boot (**85%**)
-* Arquitectura Hexagonal & SOLID (**75%**)
-* Git & GitHub (**80%**)
-* Docker / CI‑CD (**65%**)
+* ☕ Java (**80%**)  
+* ⚡ JavaScript (**50%**)  
+* 🌱 Spring Boot (**85%**)  
+* 🧱 Arquitectura Hexagonal & SOLID (**75%**)  
+* 🔧 Git & GitHub (**80%**)  
+* 🐳 Docker / CI-CD (**65%**)  
 
 ---
 
 ## 🎓 Educación
 
-**Ingeniería de Sistemas**
-*(Universidad Santo Tomás Seccional-Tunja*
+**Ingeniería de Sistemas**  
+*(Universidad Santo Tomás - Seccional Tunja)*
 
 ---
 
 ## 📫 Contacto
 
-* **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)
-* **LinkedIn**: *www.linkedin.com/in/eshc8829*
-* **Email**: *maestrosantiago14@gmail.com*
+* **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)  
+* **LinkedIn**: [eshc8829](https://www.linkedin.com/in/eshc8829)  
+* **Email**: *maestrosantiago14@gmail.com*  
 
 ---
 
-> © 2025 Edison Santiago Hurtado Campos
+<div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=footer&text=🚀%20Construyendo%20el%20futuro%20una%20línea%20a%20la%20vez&fontSize=20&fontAlignY=65&animation=twinkling&fontColor=FFFFFF" />
 
----
+</div>
+
