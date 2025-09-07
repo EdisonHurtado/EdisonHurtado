@@ -1,31 +1,32 @@
-# 🚀 Hola, soy **Edison Santiago Hurtado Campos**
+<h1 align="center" style="color:#FF00FF"> Hola, soy <b>Edison Santiago Hurtado Campos</b> </h1>
 
-Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
-
----
-
-## 🙋‍♂️ Sobre mí
-
-Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backend** y **Automatización**. Me gusta diseñar soluciones limpias aplicando **SOLID**, **Clean Architecture** y buenas prácticas de testing y CI/CD.
-
-* ⚙️ Stack principal: **Java, Spring Boot, Node.js, PostgreSQL**
-* 📦 Experiencia con: **Docker**, **GitHub Actions**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**
-* 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Spring Boot**.
-
-> *🌌 Tecnología con propósito: construir desde lo local para impacto global.*
+<p align="center" style="color:#FFD700">
+Backend Developer en formación | ☕ Java & Spring Boot | 🧱 Arquitectura Hexagonal | 🚀 Despliegue y DevOps | 🇨🇴 Colombia
+</p>
 
 ---
 
-## 🔭 En qué estoy ahora
+<h2 style="color:#FF00FF"> 🙋‍♂️ Sobre mí </h2>
 
-* Realizando prácticas para una empresa que da solución a problemas de **inventarios**.  
-* Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
-* Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
-* Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.  
+Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo <b>backend</b> y <b>Automatización</b>.  
+Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architecture</b> y buenas prácticas de testing y CI/CD.
+
+* ⚙️ Stack principal: <b>Java, Spring Boot, Node.js, PostgreSQL</b>  
+* 📦 Experiencia con: <b>Docker, GitHub Actions, Netlify, Vercel, Supabase, AWS (básico)</b>  
+* 🧪 Me interesa la <b>automatización</b> de flujos, <b>Arquitectura Hexagonal</b> o capas y microservicios en <b>Spring Boot</b>.  
 
 ---
 
-## 📊 Mis estadísticas en GitHub
+<h2 style="color:#FF00FF"> 🔭 En qué estoy ahora </h2>
+
+* Realizando prácticas para una empresa que da solución a problemas de inventarios  
+* Construyendo un <b>módulo de autenticación</b> con roles/permissions y 2FA en Spring Boot.  
+* Integrando un <b>chatbot</b> con API de ChatGPT desde <b>Spring Boot</b>.  
+* Desplegando un aplicativo de agendamiento de citas con <b>Microservicios</b> y arquitectura hexagonal  
+
+---
+
+<h2 style="color:#FF00FF"> 📊 Mis estadísticas en GitHub </h2>
 
 <div align="center">
 
@@ -39,64 +40,56 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ---
 
-## 🧰 Tecnologías y herramientas
+<h2 style="color:#FF00FF"> 🧰 Tecnologías y herramientas </h2>
+
 <div align="center">
 
-### ⚙️ **Backend**
+### ⚙️ <span style="color:#FFD700">Backend</span>  
 <img src="https://skillicons.dev/icons?i=java,spring,python,django,flask,postgres,mysql&theme=dark" />
 
-### 🛠️ **DevOps & Tools**
+### 🛠️ <span style="color:#FFD700">DevOps & Tools</span>  
 <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,supabase,vercel&theme=dark" />
 
 </div>
 
 ---
 
-## 🧪 Proyectos destacados
+<h2 style="color:#FF00FF"> 🧪 Proyectos destacados </h2>
 
 * **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
   `#java` `#spring-boot` `#hexagonal` `#docker`  
-
 * **MS-Auth** — Módulo de autenticación con roles/permissions, 2FA y auditoría.  
   `#security` `#spring-security` `#jwt`  
-
 * **MS-User** — CRUD de usuarios con PostgreSQL y pruebas.  
   `#postgresql` `#jpa` `#testing`  
-
 * **ChatController + microservicio Ollama** — POC de chatbot integrado desde Spring Boot.  
   `#python` `#rest` `#ollama`  
 
 ---
 
-## 🎯 Habilidades técnicas (auto-evaluación)
+<h2 style="color:#FF00FF"> 🎯 Habilidades técnicas (auto-evaluación) </h2>
 
-* ☕ Java (**80%**)  
-* ⚡ JavaScript (**50%**)  
-* 🌱 Spring Boot (**85%**)  
-* 🧱 Arquitectura Hexagonal & SOLID (**75%**)  
-* 🔧 Git & GitHub (**80%**)  
-* 🐳 Docker / CI-CD (**65%**)  
+* Java (**80%**)  
+* JavaScript (**50%**)  
+* Spring Boot (**85%**)  
+* Arquitectura Hexagonal & SOLID (**75%**)  
+* Git & GitHub (**80%**)  
+* Docker / CI-CD (**65%**)  
 
 ---
 
-## 🎓 Educación
+<h2 style="color:#FF00FF"> 🎓 Educación </h2>
 
 **Ingeniería de Sistemas**  
-*(Universidad Santo Tomás - Seccional Tunja)*
+*(Universidad Santo Tomás Seccional - Tunja)*  
 
 ---
 
-## 📫 Contacto
+<h2 style="color:#FF00FF"> 📫 Contacto </h2>
 
-* **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)  
-* **LinkedIn**: [eshc8829](https://www.linkedin.com/in/eshc8829)  
+* **LinkedIn**: *www.linkedin.com/in/eshc8829*  
 * **Email**: *maestrosantiago14@gmail.com*  
 
 ---
 
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=FF00FF&height=100&section=footer&text=🚀%20Construyendo%20el%20futuro%20una%20línea%20a%20la%20vez&fontSize=20&fontAlignY=65&animation=twinkling&fontColor=FFFFFF" />
-
-</div>
-
+<p align="center" style="color:#FFD700">© 2025 Edison Santiago Hurtado Campos</p>
