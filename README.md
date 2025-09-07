@@ -27,11 +27,16 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ## 📊 Mis estadísticas en GitHub
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=EdisonHurtado\&show_icons=true\&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado\&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
-[![Streak](https://streak-stats.demolab.com?user=EdisonHurtado)](https://git.io/streak-stats)
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
+
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F5FF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=00F5FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+
+</div>
+
 
 ---
 
@@ -49,29 +54,6 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
 
 ---
-
-
-⚔️ Arsenal Tecnológico
-🔹 Backend & Microservicios
-
-
-
-
-
-
-
-🔹 DevOps & CI/CD
-
-
-
-
-
-🔹 Frontend & Otros
-
-
-
-
-
 
 
 ## 🧪 Proyectos destacados
