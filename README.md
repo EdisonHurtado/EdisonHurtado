@@ -28,15 +28,16 @@ Me gusta diseñar soluciones limpias aplicando <b>SOLID</b>, <b>Clean Architectu
 
 <h2 style="color:#FF00FF"> 📊 Mis estadísticas en GitHub </h2>
 
-<div align="center">
+<div align="center"> 
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=radical&hide_border=true&title_color=FF00FF&icon_color=FFD700&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFFFFF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=radical&hide_border=true&title_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=tokyonight&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=radical&hide_border=true&background=0D1117&stroke=FF00FF&ring=FFD700&fire=FF4500&currStreakLabel=FF00FF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=tokyonight&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
+
 
 ---
 
