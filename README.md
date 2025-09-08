@@ -18,7 +18,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ## 🔭 En qué estoy ahora
 
-* Realizando prácticas para una empresa que da solución a problemas de **inventarios**.  
+* Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.  
 * Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
 * Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
 * Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.
