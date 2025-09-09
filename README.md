@@ -95,6 +95,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 * **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)  
 * **LinkedIn**: [eshc8829](https://www.linkedin.com/in/eshc8829)  
 * **Email**: maestrosantiago14@gmail.com
+* **Instagram**: (https://www.instagram.com/santiagoe.campos/)
 
 ---
 
