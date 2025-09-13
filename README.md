@@ -1,16 +1,16 @@
-# Hola, soy **Edison Santiago Hurtado Campos**
+# Hola, soja **Edison Santiago Hurtado Campos**
 
-Backend Developer en formación | ☕ **Java & Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 DevOps | 🇨🇴 Colombia
+Desarrollador de backend en formación | ☕ **Java y Spring Boot** | 🧱 Arquitectura **Hexagonal** | 🚀 DevOps | 🇨🇴 Colombia
 
 ---
 
 ## 🙋‍♂️ Sobre mí
 
-Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backend** y **Automatización**. Me gusta diseñar soluciones limpias aplicando **SOLID**, **Clean Architecture** y buenas prácticas de testing y CI/CD.
+Soy estudiante de Ingeniería de Sistemas, aposionado por el desarrollo **backend** y **Automatización**. Me gusta hacer soluciones limpias aplicando **SÓLIDO**, **Arquitectura limpia** y buenas prácticas de pruebas y CI/CD.
 
-* ⚙️ Stack principal: **Java, Spring Boot, Node.js, PostgreSQL**  
-* 📦 Experiencia con: **Docker**, **GitHub Actions**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**  
-* 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Spring Boot**.
+* ⚙️ Principio de pila: **Java, Spring Boot, Node.js, PostgreSQL**  
+* 📦 Experiencia con: **Docker**, **Acciones de GitHub**, **Netlify**, **Vercel**, **Supabase**, **AWS (básico)**  
+* 🧪 Me interesa la **automatización** de flujos, **Arquitectura Hexagonal** o capas y microservicios en **Bota de primavera**.
 
 > *🌌 Tecnología con propósito: construir desde lo local para impacto global.*
 
@@ -19,43 +19,43 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ## 🔭 En qué estoy ahora
 
 * Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.  
-* Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
-* Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
+* Construyendo un **módulo de autenticación** con roles/permisos y 2FA en Spring Boot. 
+* Integrando un **chatbot** con API de ChatGPT desde **Bota de primavera**.  
 * Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.
 
 ---
 
 ## 📊 Mis estadísticas en GitHub
 
-<div align="center">
+<div alinear="centro">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&show_icons=true&theme=tokyonight&hide_border=true&title_color=FFFFFF&icon_color=FF6B6B&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&count_private=true" />
+<img ancho="49%" src="https://github-readme-stats.vercel.app/api?username=EdisonHurtado&másrar_iconos=verdadero&tema=tokyonight&ocultar_borde=verdadero&tipulo_color=FFFFFF&icono_color=FF6B6B&color_texto=FFFFFF&bg_color=0D1117&incluir_todos_las_confirmaciones=verdadero&count_private=true" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&theme=tokyonight&hide_border=true&title_color=FFFFFF&text_color=FFFFFF&bg_color=0D1117&layout=compact&langs_count=8" />
+<img ancho="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EdisonHurtado&tema=tokyonight&ocultar_borde=verdadero&tipulo_color=FFFFFF&color_texto=FFFFFF&bg_color=0D1117&diseño=compacto&langs_count=8" />
 
-<img width="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&theme=tokyonight&hide_border=true&background=0D1117&stroke=FFFFFF&ring=FF6B6B&fire=4ECDC4&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img ancho="98%" src="https://github-readme-streak-stats.herokuapp.com/?user=EdisonHurtado&tema=tokyonight&ocultar_borde=verdadero&fondo=0D1117&trazo=FFFFFF&anillo=FF6B6B&fuego=4ECDC4&currStreakLabel=FFFFFF&etiquetas laterales=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
 ---
 
-## 🧰 Tecnologías y herramientas
+## 🧰 Tecnologías y herramientos
 
-<div align="center">
+<div alinear="centro">
 
 ### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,spring,python,postgres,mysql&tema=oscuro" />
 
-### 🛠️ DevOps & Tools
-<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,supabase,vercel&theme=dark" />
+### 🛠️ DevOps y herramientos
+<img src="https://skillicons.dev/icons?i=docker,git,github,linux,vscode,idea,supabase,vercel&tema=oscuro" />
 
 </div>
 
 ---
 
-## 🧪 Proyectos destacados
+## 🧪 Proyectos destruidos
 
-* **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
+* **plataforma multiespecialista** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
   `#java` `#spring-boot` `#hexagonal` `#docker`  
 * **MS-Auth** — Módulo de autenticación con roles/permissions, 2FA y auditoría.  
   `#security` `#spring-security` `#jwt`  
