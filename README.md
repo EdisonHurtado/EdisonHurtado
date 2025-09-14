@@ -18,7 +18,8 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ## 🔭 En qué estoy ahora
 
-* Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.  
+* Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.
+* Realizando la internalizacion para COLOMBIACOMPARTE por medio de un frontend y desplegarlo en GODADDY
 * Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
 * Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
 * Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.
@@ -91,8 +92,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ---
 
 ## 📫 Contacto
-
-* **GitHub**: [EdisonHurtado](https://github.com/EdisonHurtado)  
+ 
 * **LinkedIn**: [eshc8829](https://www.linkedin.com/in/eshc8829)  
 * **Email**: maestrosantiago14@gmail.com
 
