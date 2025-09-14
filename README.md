@@ -55,7 +55,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ## 🧪 Proyectos destacados
 
-* **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker).  
+* **multi-specialist-platform** — Plataforma modular con microservicios (Spring Boot, Hexagonal, Docker, AWS).  
   `#java` `#spring-boot` `#hexagonal` `#docker`  
 * **MS-Auth** — Módulo de autenticación con roles/permissions, 2FA y auditoría.  
   `#security` `#spring-security` `#jwt`  
