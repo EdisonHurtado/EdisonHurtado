@@ -19,7 +19,8 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 ## 🔭 En qué estoy ahora
 
 * Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.
-* Realizando la internalizacion para COLOMBIACOMPARTE por medio de un frontend y desplegarlo en GODADDY
+* Realizando la internalizacion para COLOMBIACOMPARTE por medio de un frontend
+* Instalacion y Administracion de un Moodle para COLOMBIACOMPARTE.
 * Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
 * Integrando un **chatbot** con API de ChatGPT desde **Spring Boot**.  
 * Desplegando un aplicativo de **agendamiento de citas** con microservicios y arquitectura hexagonal.
