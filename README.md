@@ -18,7 +18,7 @@ Soy estudiante de Ingeniería de Sistemas, apasionado por el desarrollo **backen
 
 ## 🔭 En qué estoy ahora
 
-* Realizando prácticas para SOALTECH usando javascript para el desarrollo de problemas de **inventarios**.
+* Practicas realizadas en SOALTECH para el desarrollo de problemas de **inventarios**.
 * Realizando la internalizacion para COLOMBIACOMPARTE por medio de un frontend
 * Instalacion y Administracion de un Moodle para COLOMBIACOMPARTE.
 * Construyendo un **módulo de autenticación** con roles/permissions y 2FA en Spring Boot.  
